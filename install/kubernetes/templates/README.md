@@ -38,7 +38,7 @@ sudo apt-get install -y kubectl kubelet kubeadm
 ```
 5. Config kubeadm if NodePort service is needed.(OPTIONAL)
 
-   [Kube-proxy config](install/nodeport-kube-proxy-setup.md)
+   [Kube-proxy config](nodeport-kube-proxy-setup.md)
 
 6. Create K8s cluster
 
@@ -182,7 +182,7 @@ yum update -y; yum install -y kubelet kubeadm
 
 5. Config kubeadm if NodePort service is needed.(OPTIONAL)
 
-   [Kube-proxy config](install/nodeport-kube-proxy-setup.md)
+   [Kube-proxy config](nodeport-kube-proxy-setup.md)
 
 6. Create K8s cluster
 
